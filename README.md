@@ -56,4 +56,4 @@ This script is designed for analyzing predefined datasets and conducting sentime
 
 ## Author
 
-Hrishi Mehta
+Neeraj Dhulipala

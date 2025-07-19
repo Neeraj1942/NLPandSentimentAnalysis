@@ -1,10 +1,8 @@
 
-**Stock Market Prediction Project**
+# Stock Market Prediction Project Using NLP And Sentiment Analysis
 
-Explanation - 
 
-# NLPAndSentimentAnalysis
-# Investment Portfolio Analysis with Natural Language Processing
+## Investment Portfolio Analysis with Natural Language Processing
 
 This Python script integrates financial data analysis with sentiment analysis using NLP techniques. Here's an overview of what the script does:
 
@@ -52,7 +50,7 @@ This script is designed for analyzing predefined datasets and conducting sentime
 ## Requirements
 
 - Python 3.x
-- Libraries listed in `requirements.txt`
+- Libraries used in include numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, textblob, spacy, vaderSentiment, tensorflow and backtrader.
 
 ## Author
 

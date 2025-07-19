@@ -50,7 +50,7 @@ This script is designed for analyzing predefined datasets and conducting sentime
 ## Requirements
 
 - Python 3.x
-- Libraries used in include numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, textblob, spacy, vaderSentiment, tensorflow and backtrader.
+- Libraries used in include numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, textblob, spacy, vaderSentiment, tensorflow, pydantic and backtrader.
 
 ## Author
 
